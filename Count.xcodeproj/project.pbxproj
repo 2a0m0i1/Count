@@ -15,6 +15,7 @@
 		E010BD7626443076008F813D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E010BD7426443076008F813D /* LaunchScreen.storyboard */; };
 		E010BD8126443076008F813D /* CountTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E010BD8026443076008F813D /* CountTests.swift */; };
 		E010BD8C26443076008F813D /* CountUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E010BD8B26443076008F813D /* CountUITests.swift */; };
+		E010BD9E26443718008F813D /* haikei.png in Resources */ = {isa = PBXBuildFile; fileRef = E010BD9D26443718008F813D /* haikei.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		E010BD8726443076008F813D /* CountUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CountUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E010BD8B26443076008F813D /* CountUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountUITests.swift; sourceTree = "<group>"; };
 		E010BD8D26443076008F813D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E010BD9D26443718008F813D /* haikei.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = haikei.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 		E010BD6826443075008F813D /* Count */ = {
 			isa = PBXGroup;
 			children = (
+				E010BD9D26443718008F813D /* haikei.png */,
 				E010BD6926443075008F813D /* AppDelegate.swift */,
 				E010BD6B26443075008F813D /* SceneDelegate.swift */,
 				E010BD6D26443075008F813D /* ViewController.swift */,
@@ -231,6 +234,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E010BD9E26443718008F813D /* haikei.png in Resources */,
 				E010BD7626443076008F813D /* LaunchScreen.storyboard in Resources */,
 				E010BD7326443076008F813D /* Assets.xcassets in Resources */,
 				E010BD7126443075008F813D /* Main.storyboard in Resources */,
